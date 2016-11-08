@@ -34,7 +34,10 @@ end;
 ----------------------------------- 
 
 function onMobDeath(mob, player, isKiller)
-    player:delStatusEffect(EFFECT_LEVEL_RESTRICTION);
-    
+    for i = 17138052, 17138057, 1 do
+        DespawnMob(i)
+    end
+    player:addCurrency("Allied_Notes", 1000);
+    player:delStatusEffect(EFFECT_LEVEL_RESTRICTION);    
 end;
 
