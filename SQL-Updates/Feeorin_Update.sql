@@ -1,10 +1,10 @@
-UPDATE mob_spawn_points SET pos_x=-206, pos_y=0, pos_z=471, pos_rot=274  WHERE mobid=17138051;
-UPDATE mob_spawn_points SET pos_x=-205, pos_y=0, pos_z=472, pos_rot=274  WHERE mobid=17138052;
-UPDATE mob_spawn_points SET pos_x=-205.25, pos_y=0, pos_z=472, pos_rot=274  WHERE mobid=17138053;
-UPDATE mob_spawn_points SET pos_x=-205.50, pos_y=0, pos_z=472, pos_rot=274  WHERE mobid=17138054;
-UPDATE mob_spawn_points SET pos_x=-206, pos_y=0, pos_z=469, pos_rot=244  WHERE mobid=17138055;
-UPDATE mob_spawn_points SET pos_x=-206.25, pos_y=0, pos_z=469, pos_rot=244  WHERE mobid=17138056;
-UPDATE mob_spawn_points SET pos_x=-206.50, pos_y=0, pos_z=469, pos_rot=244  WHERE mobid=17138057;
+UPDATE mob_spawn_points SET pos_x= -206, pos_y=0, pos_z=471, pos_rot=274  WHERE mobid=17138051;
+UPDATE mob_spawn_points SET pos_x= -205, pos_y=0, pos_z=472, pos_rot=274  WHERE mobid=17138052;
+UPDATE mob_spawn_points SET pos_x= -205.25, pos_y=0, pos_z=472, pos_rot=274  WHERE mobid=17138053;
+UPDATE mob_spawn_points SET pos_x= -205.50, pos_y=0, pos_z=472, pos_rot=274  WHERE mobid=17138054;
+UPDATE mob_spawn_points SET pos_x= -206, pos_y=0, pos_z=469, pos_rot=244  WHERE mobid=17138055;
+UPDATE mob_spawn_points SET pos_x= -206.25, pos_y=0, pos_z=469, pos_rot=244  WHERE mobid=17138056;
+UPDATE mob_spawn_points SET pos_x= -206.50, pos_y=0, pos_z=469, pos_rot=244  WHERE mobid=17138057;
 
 
 
